@@ -1,6 +1,6 @@
-## Justificación y Contexto del Proyecto de Scoring Crediticio en Monterrey
+## Justificación y Contexto del Proyecto de Scoring Crediticio
 
-En el dinámico y competitivo panorama financiero de Monterrey, Nuevo León, tanto las instituciones bancarias tradicionales como las fintech se enfrentan al desafío constante de **optimizar la gestión del riesgo crediticio** para asegurar su sostenibilidad y crecimiento. La capacidad de evaluar con precisión la solvencia de los solicitantes de crédito es fundamental para **minimizar las pérdidas por incumplimiento**, **maximizar la originación de préstamos rentables** y **mantener una cartera de crédito saludable**.
+En el dinámico y competitivo panorama financiero, tanto las instituciones bancarias tradicionales como las fintech se enfrentan al desafío constante de **optimizar la gestión del riesgo crediticio** para asegurar su sostenibilidad y crecimiento. La capacidad de evaluar con precisión la solvencia de los solicitantes de crédito es fundamental para **minimizar las pérdidas por incumplimiento**, **maximizar la originación de préstamos rentables** y **mantener una cartera de crédito saludable**.
 
 Los métodos tradicionales de evaluación crediticia, basados a menudo en reglas fijas y modelos estadísticos lineales, pueden tener limitaciones significativas en la captura de la complejidad inherente al comportamiento financiero de los individuos. Estos modelos pueden resultar en **decisiones subóptimas**, llevando a la **aprobación de solicitantes de alto riesgo (falsos positivos)** o al **rechazo de solicitantes solventes (falsos negativos)**. Ambas situaciones impactan negativamente la rentabilidad y el potencial de crecimiento de las instituciones financieras.
 
