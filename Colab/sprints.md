@@ -1,0 +1,2 @@
+- Cargar dataset train y test
+- realizar análisis exploratorio (revisar si para ambos o solo para train)
